@@ -21,7 +21,11 @@ Given the data, the Marketing department specifically needs to understand:
 1. The average trip time
 2. The effect of annual membership on average trip time
 3. Which stations receive the most traffic
-4. Optimal number of bikes to place in each station
+4. The optimal number of bikes to place in each station
+
+   4a. Given a fleet of 500 bikes, optimized for maximum total ride time
+
+   4b. Given a fleet of 1000 bikes, optimized for maximum number of trips
 
 Aside from the explicitly stated requirements listed above, identify (execution not required) some other potential insights this data set might be able to provide answers to.
 
