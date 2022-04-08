@@ -53,3 +53,12 @@ Aside from the explicitly stated requirements listed above, identify (execution 
   - The thought process behind your solution to requirement #4
 
 - Please omit the company name from your repository/project name
+
+- (Optional) We are always trying to improve the assessment experience for future candidates. When sending your submission, please provide some feedback on the assessment description including details such as:
+
+  - How long the assessment took to complete
+  - Whether or not the requirements were clear
+  - On a scale of 1 - 10, the level of difficulty
+  - If given the choice, would they rather have done an Leet-code style assessment over a project-based assessment
+
+  Feedback on the assessment description will not affect our evaluation of your submission.
